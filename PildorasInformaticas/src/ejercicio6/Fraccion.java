@@ -1,3 +1,4 @@
+package ejercicio6;
 public class Fraccion {
     private int denominador, numerador;
 
